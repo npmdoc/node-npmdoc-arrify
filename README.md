@@ -1,6 +1,6 @@
 # npmdoc-arrify
 
-#### api documentation for  [arrify (v1.0.1)](https://github.com/sindresorhus/arrify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-arrify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-arrify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-arrify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-arrify)
+#### basic api documentation for  [arrify (v1.0.1)](https://github.com/sindresorhus/arrify#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-arrify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-arrify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-arrify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-arrify)
 
 #### Convert a value to an array
 
@@ -70,7 +70,8 @@
     "scripts": {
         "test": "xo && ava"
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "bin": {}
 }
 ```
 
